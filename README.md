@@ -160,10 +160,6 @@ While the current version doesn't include a service worker, you can bookmark the
 2. Click the bookmark icon or press `Ctrl+D` (Windows/Linux) or `Cmd+D` (Mac)
 3. Access anytime from your bookmarks
 
-### PHP Configuration
-
-**Note**: This application does **not** require PHP or any server-side processing. It is a pure client-side HTML/JavaScript application. No `php.ini` configuration is necessary, as no PHP code is executed. The application runs entirely in the browser using standard web APIs.
-
 ---
 
 ## 📖 Usage Guide
